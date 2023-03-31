@@ -1,12 +1,10 @@
 public class ManagerApp {
     public static void main(String[] args) {
      
-        var manager = new Manager();
-        manager.name = "Eko";
+        var manager = new Manager("Eko");
         manager.sayHello("Budi");
 
-        var vp = new VicePresident();
-        vp.name = "Joko";
+        var vp = new VicePresident("Joko");
         vp.sayHello("Budi");
     }
 }

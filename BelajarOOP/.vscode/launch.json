@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EqualsApp",
+            "request": "launch",
+            "mainClass": "programmer.application.EqualsApp",
+            "projectName": "BelajarOOP_f17ed3d"
+        },
+        {
+            "type": "java",
+            "name": "ProductApp",
+            "request": "launch",
+            "mainClass": "programmer.data.ProductApp",
+            "projectName": "BelajarOOP_f17ed3d"
+        },
+        {
+            "type": "java",
+            "name": "CarApp",
+            "request": "launch",
+            "mainClass": "programmer.application.CarApp",
+            "projectName": "BelajarOOP_f17ed3d"
+        },
+        {
+            "type": "java",
+            "name": "CategoryApp",
+            "request": "launch",
+            "mainClass": "programmer.application.CategoryApp",
+            "projectName": "BelajarOOP_f17ed3d"
+        },
+        {
+            "type": "java",
+            "name": "AnimalApp",
+            "request": "launch",
+            "mainClass": "programmer.application.AnimalApp",
+            "projectName": "BelajarOOP_f17ed3d"
+        },
+        {
+            "type": "java",
+            "name": "LocationApp",
+            "request": "launch",
+            "mainClass": "programmer.application.LocationApp",
+            "projectName": "BelajarOOP_f17ed3d"
+        },
+        {
+            "type": "java",
+            "name": "ParentApp",
+            "request": "launch",
+            "mainClass": "ParentApp",
+            "projectName": "BelajarOOP_f17ed3d"
+        },
+        {
+            "type": "java",
+            "name": "PolymorphismApp",
+            "request": "launch",
+            "mainClass": "PolymorphismApp",
+            "projectName": "BelajarOOP_f17ed3d"
+        },
+        {
+            "type": "java",
             "name": "ShapeApp",
             "request": "launch",
             "mainClass": "ShapeApp",
